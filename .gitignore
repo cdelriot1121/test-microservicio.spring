@@ -1,0 +1,31 @@
+log/
+# Logs
+log/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+
+# Maven
+target/
+*.jar
+*.war
+
+# Gradle
+.gradle/
+build/
+
+# Spring Boot specific
+*.class
+*.swp
+*.swo
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
